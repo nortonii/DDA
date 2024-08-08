@@ -1,18 +1,3 @@
-### Repository Description
-
----
-
-**Repository Name**: DDA-GOSR
-
-**Description**:  
-This repository will contain the code and resources for the paper "Dual Distribution Alignment for Graph Open Set Recognition" submitted to the KDD conference. The DDA method innovatively addresses the challenges in the GOSR field by breaking previous assumptions about high-frequency information requirements for OOD tasks. Currently, the repository is a placeholder and will be updated with the code and relevant materials in the future.
-
----
-
-### README.md
-
----
-
 # DDA: Dual Distribution Alignment for Graph Open Set Recognition
 
 Welcome to the official repository for the DDA method, introduced in our submission to the KDD conference. This repository will contain all the code, datasets, and instructions needed to reproduce the results presented in the paper. The repository is currently empty but will be populated with the necessary resources soon.
