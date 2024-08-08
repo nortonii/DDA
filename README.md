@@ -40,15 +40,6 @@ Our experimental results will be detailed once the code and data are available.
 
 If you use this code in your research, please cite our paper:
 
-```bibtex
-@inproceedings{your-paper,
-  title={Dual Distribution Alignment for Graph Open Set Recognition},
-  author={Your Name and Co-Authors},
-  booktitle={Proceedings of the KDD Conference},
-  year={2024}
-}
-```
-
 ## Contributing
 
 We welcome contributions to improve DDA! Contribution guidelines will be provided once the repository is populated.
