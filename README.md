@@ -20,11 +20,6 @@ Welcome to the official repository for the DDA method, introduced in our submiss
 
 To get started, clone this repository. The installation steps and dependencies will be provided once the code is uploaded.
 
-```bash
-git clone https://github.com/yourusername/DDA-GOSR.git
-cd DDA-GOSR
-```
-
 ## Usage
 
 Usage instructions will be available once the code is uploaded.
